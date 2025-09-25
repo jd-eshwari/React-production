@@ -1,0 +1,2 @@
+
+cb0f60511ae885854b417c36c67424229be4a6c9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/json-buffer/-/json-buffer-3.0.1.tgz","integrity":null,"time":1758805462710,"size":"0","metadata":{"time":1758805462710,"url":"http://registry.npmjs.org/json-buffer/-/json-buffer-3.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 25 Sep 2025 13:04:24 GMT","location":"https://registry.npmjs.org/json-buffer/-/json-buffer-3.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

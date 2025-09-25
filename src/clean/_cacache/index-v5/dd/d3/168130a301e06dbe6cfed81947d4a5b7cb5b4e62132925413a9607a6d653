@@ -1,0 +1,2 @@
+
+e14e5727bdd0071f1e42db4d44c78972ff905a6e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/get-nonce/-/get-nonce-1.0.1.tgz","integrity":null,"time":1758805462924,"size":"0","metadata":{"time":1758805462923,"url":"http://registry.npmjs.org/get-nonce/-/get-nonce-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 25 Sep 2025 13:04:24 GMT","location":"https://registry.npmjs.org/get-nonce/-/get-nonce-1.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

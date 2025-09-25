@@ -1,0 +1,2 @@
+
+e67c5ad8c9c11a9da4689afc74aa928cd36c33e0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz","integrity":null,"time":1758805464583,"size":"0","metadata":{"time":1758805464582,"url":"http://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 25 Sep 2025 13:04:26 GMT","location":"https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

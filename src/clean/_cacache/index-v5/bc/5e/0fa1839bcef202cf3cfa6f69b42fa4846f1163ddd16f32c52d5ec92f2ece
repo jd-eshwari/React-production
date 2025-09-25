@@ -1,0 +1,2 @@
+
+70cf3d30012eee93c956044124d767cf14a3ec32	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz","integrity":null,"time":1758805462893,"size":"0","metadata":{"time":1758805462893,"url":"http://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 25 Sep 2025 13:04:24 GMT","location":"https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

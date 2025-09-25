@@ -1,0 +1,2 @@
+
+956ec57f1400125895d6abda0e90732f8dfb9fa3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fastq/-/fastq-1.19.1.tgz","integrity":null,"time":1758805463093,"size":"0","metadata":{"time":1758805463092,"url":"http://registry.npmjs.org/fastq/-/fastq-1.19.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 25 Sep 2025 13:04:24 GMT","location":"https://registry.npmjs.org/fastq/-/fastq-1.19.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

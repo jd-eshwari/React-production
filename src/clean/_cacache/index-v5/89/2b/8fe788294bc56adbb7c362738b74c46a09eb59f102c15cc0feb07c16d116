@@ -1,0 +1,2 @@
+
+330caf28b9e79dbbf8daa6f174d1def98d8696aa	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz","integrity":null,"time":1758805462981,"size":"0","metadata":{"time":1758805462980,"url":"http://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 25 Sep 2025 13:04:24 GMT","location":"https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
